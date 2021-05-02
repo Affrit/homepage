@@ -1,23 +1,23 @@
 main {
-    background: url(./images/background.jpg) repeat-y; 
-    background-size: 100%;
+  background: url(./images/background.jpg) repeat-y;
+  background-size: 100%;
 }
 
 .stackable.grid {
-    background-color: rgb(15, 15, 66);
+  background-color: rgb(15, 15, 66);
 }
 
 .red {
-    background-color: rgb(195, 13, 13);
+  background-color: rgb(195, 13, 13);
 }
 
 .ref {
-    margin-top: 20px;
-    font-size: 14px;
-    color: #fff;
-    transition: color .3s linear;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #fff;
+  transition: color 0.3s linear;
 }
 
 .ref:hover {
-    color: red;
+  color: red;
 }
