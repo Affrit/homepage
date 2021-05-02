@@ -3,11 +3,6 @@ main {
     background-size: 100%;
 }
 
-.page {
-    border-color: rgb(195, 13, 13);
-    color: #fff;
-}
-
 .stackable.grid {
     background-color: rgb(15, 15, 66);
 }
